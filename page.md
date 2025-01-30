@@ -15,4 +15,7 @@
     <li>
         <a href="slides/04.md">Инструменты до Tailwind</a>
     </li>
+    <li>
+        <a href="slides/05.md">БЭМ</a>
+    </li>
 </ol>
