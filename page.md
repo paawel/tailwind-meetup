@@ -18,4 +18,10 @@
     <li>
         <a href="slides/05.md">БЭМ</a>
     </li>
+    <li>
+        <a href="slides/06.md">Техническая часть (инструменты и сетап)</a>
+    </li>
+    <li>
+        <a href="slides/07.md">Техническая часть (JIT compiler)</a>
+    </li>
 </ol>
