@@ -24,4 +24,7 @@
     <li>
         <a href="slides/07.md">Техническая часть (JIT compiler)</a>
     </li>
+    <li>
+        <a href="slides/08.md">Слабые стороны Tailwind</a>
+    </li>
 </ol>
