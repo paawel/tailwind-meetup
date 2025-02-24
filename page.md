@@ -22,9 +22,12 @@
         <a href="slides/06.md">Техническая часть (инструменты и сетап)</a>
     </li>
     <li>
-        <a href="slides/07.md">Техническая часть (JIT compiler)</a>
+        <a href="slides/07.md">Техническая часть (Quick Start)</a>
     </li>
     <li>
-        <a href="slides/08.md">Слабые стороны Tailwind</a>
+        <a href="slides/08.md">Техническая часть (JIT compiler)</a>
+    </li>
+    <li>
+        <a href="slides/09.md">Слабые стороны Tailwind</a>
     </li>
 </ol>
