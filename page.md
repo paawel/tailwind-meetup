@@ -25,7 +25,7 @@
         <a href="slides/07.md">Техническая часть (Quick Start)</a>
     </li>
     <li>
-        <a href="slides/08.md">Техническая часть (JIT compiler)</a>
+        <a href="slides/08.md">Техническая часть (Интересные возможности)</a>
     </li>
     <li>
         <a href="slides/09.md">Слабые стороны Tailwind</a>
