@@ -4,6 +4,9 @@
 
 <ol>
     <li>
+        <a href="slides/00.md">Вместо вступления</a>
+    </li>
+    <li>
         <a href="slides/01.md">Почему Tailwind ?</a>
     </li>
     <li>
@@ -25,7 +28,7 @@
         <a href="slides/07.md">Техническая часть (Quick Start)</a>
     </li>
     <li>
-        <a href="slides/08.md">Техническая часть (Интересные возможности)</a>
+        <a href="slides/08.md">Техническая часть (Killer features)</a>
     </li>
     <li>
         <a href="slides/09.md">Слабые стороны Tailwind</a>
